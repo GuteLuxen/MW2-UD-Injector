@@ -9,10 +9,6 @@
 - Prices
 > Full Src, Give A offer
 
-> Pre Compiled, 100$
-
-
-
 - Compatible 
 > Win11
 
